@@ -50,6 +50,8 @@ int main(){
         }
     }
 
+    fclose(arquivo);
+
     return 0;
     
 }
